@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I’m Mahesh Dhiman
 
-<!--
-**noni26390/noni26390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 12th Pass | Mechanical Engineering @ DCRUST  
+💻 Aspiring Data Scientist | Python Learner | PCM Teacher  
+📚 Teaching Physics, Chemistry, Math to 11th Grade (4–7 PM Daily)  
+🧘‍♂️ Into Calisthenics, Meditation, and Discipline
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Coding Projects
+
+- 🔥 Temperature Converter – [[GitHub Link](https://github.com/noni26390/BMI-Calculator/blob/main/temperature.py)]
+- 💰 Simple Interest Calculator – [[GitHub Link](https://github.com/noni26390/BMI-Calculator/blob/main/simple%20interest%20calculator.py)]
+- 🧮 Age group detector – [GitHub Link](https://github.com/noni26390/python_projects_1/blob/main/age_group_detect.py)]
+- 📊 Data Science Projects – Coming soon!
+
+---
+
+## 👨‍🏫 My Teaching Journey
+
+- Teaching 11th-grade PCM since 2025
+- Topics taught:
+  - Physics: Units, Motion, Work Power Energy, Gravitation
+  - Chemistry: Mole Concept, Structure of Atom, Periodicity, Chemical Bonding,
+  - Math: Sets, Sequence and series, 
+- Tools: Yet offline.
+
+---
+
+## 🧠 Skills
+
+- Python (Beginner)
+- Git & GitHub (Learning)
+- PCM Teaching
+- Calisthenics & Self-Discipline
+
+---
+
+## 📫 Contact Me
+
+- GitHub: [github.com/MaheshDhiman](https://github.com/YourUsername)
+- Email: mahesh@example.com
+- Instagram: 

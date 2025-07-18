@@ -23,7 +23,8 @@
   - Physics: Units, Motion, Work Power Energy, Gravitation
   - Chemistry: Mole Concept, Structure of Atom, Periodicity, Chemical Bonding,
   - Math: Sets, Sequence and series, 
-- Tools: Yet offline.
+  - Tools: Currently offline (whiteboard), planning to shift to online mode using Zoom + PDF notes.
+
 
 ---
 

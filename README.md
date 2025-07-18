@@ -37,8 +37,8 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 **Contact with Me**
 
-- GitHub: [github.com/MaheshDhiman](https://github.com/YourUsername)
-- Email: mahesh@example.com
-- Instagram: 
+- 🌐 GitHub: [github.com/MaheshDhiman](https://github.com/YourUsername)
+- 📧 Email: mahesh@example.com
+- 📷 Instagram: 

@@ -2,43 +2,59 @@
 
 🎓 12th Pass | Mechanical Engineering @ DCRUST  
 💻 Aspiring Data Scientist | Python Learner | PCM Teacher  
-📚 Teaching Physics, Chemistry, Math to 11th Grade (4–7 PM Daily)  
-🧘‍♂️ Into Calisthenics, Meditation, and Discipline
+🧘‍♂️ Calisthenics Enthusiast | Meditation | Self-Discipline  
 
 ---
 
-## 💻 My Coding Projects
+## 💻 Coding Projects
 
-- 🔥 Temperature Converter – [[GitHub Link](https://github.com/noni26390/BMI-Calculator/blob/main/temperature.py)]
-- 💰 Simple Interest Calculator – [[GitHub Link](https://github.com/noni26390/BMI-Calculator/blob/main/simple%20interest%20calculator.py)]
-- 🧮 Age group detector – [GitHub Link](https://github.com/noni26390/python_projects_1/blob/main/age_group_detect.py)]
-- 📊 Data Science Projects – Coming soon!
+- 🔥 [Temperature Converter](https://github.com/noni26390/python_projects_1)
+- 💰 [Simple Interest Calculator](https://github.com/noni26390/python_projects_1)
+- 🧮 [Age Group Detector](https://github.com/noni26390/python_projects_2)
+- 📊 *Data Science Projects – Coming soon!*
 
 ---
 
 ## 👨‍🏫 My Teaching Journey
 
-- Teaching 11th-grade PCM since 2025
-- Topics taught:
-  - Physics: Units, Motion, Work Power Energy, Gravitation
-  - Chemistry: Mole Concept, Structure of Atom, Periodicity, Chemical Bonding,
-  - Math: Sets, Sequence and series, 
-  - Tools: Currently offline (whiteboard), planning to shift to online mode using Zoom + PDF notes.
+I teach **Physics, Chemistry, and Math** to 11th-grade students (Daily 4–7 PM).  
+**Started in 2025**, I’m building a strong teaching base offline with plans to go digital soon (Google meet + PDFs).
 
+### Topics Covered:
+
+**Physics**:  
+Units, Motion, Work Power Energy, Gravitation
+
+**Chemistry**:  
+Mole Concept, Structure of Atom, Periodicity, Chemical Bonding
+
+**Mathematics**:  
+Sets, Sequence and Series
 
 ---
 
 ## 🧠 Skills
 
-- Python (Beginner)
-- Git & GitHub (Learning)
-- PCM Teaching
-- Calisthenics & Self-Discipline
+- 💻 Python (Beginner Level – Building Projects)
+- 🛠 Git & GitHub (Basics – Portfolio & Version Control)
+- 📚 PCM Subject Teaching (Offline)
+- 💪 Calisthenics, Yoga, and Self-Discipline
+- 🧘‍♂️ Meditation for Focus
 
 ---
 
-## 📫 **Contact with Me**
+## 📈 Goals (2025–26)
 
-- 🌐 GitHub: [github.com/MaheshDhiman](https://github.com/YourUsername)
-- 📧 Email: nonidhiman553@gmail.com
-- 📷 Instagram: 
+- Learn Python Libraries: NumPy, Pandas, Matplotlib  
+- Build Beginner-Level Data Science Projects  
+- Join DCRUST Clubs (Open Source & Sports)  
+- Teach Online using Digital Tools  
+- Reach 30 push-ups, 20 pull-ups, 10 km in 50 min
+
+---
+
+## 📬 Contact
+
+📧 Email: vhb715017@gmail.com  
+🔗 LinkedIn: [Mahesh Dhiman](https://www.linkedin.com/in/mahesh-dhiman-884b29254)  
+📍 Location: India  

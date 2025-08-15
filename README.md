@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Mahesh Dhiman
 
-🎓 12th Pass | Mechanical Engineering @ DCRUST  
+🎓 12th Pass | Electrical Engineering @ DCRUST  
 💻 Aspiring Data Scientist | Python Learner | PCM Teacher  
 🧘‍♂️ Calisthenics Enthusiast | Meditation | Self-Discipline  
 

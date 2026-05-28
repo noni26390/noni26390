@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Mahesh Dhiman
 
 🎓 12th Pass | Electrical Engineering @ DCRUST  
-💻 Aspiring Data Scientist | Python Learner | PCM Teacher  
+💻 Aspiring Data Scientist | Python Learner   
 🧘‍♂️ Calisthenics Enthusiast | Meditation | Self-Discipline  
 
 ---
@@ -15,29 +15,10 @@
 
 ---
 
-## 👨‍🏫 My Teaching Journey
-
-I teach **Physics, Chemistry, and Math** to 11th-grade students (Daily 4–7 PM).  
-**Started in 2025**, I’m building a strong teaching base offline with plans to go digital soon (Google meet + PDFs).
-
-### Topics Covered:
-
-**Physics**:  
-Units, Motion, Work Power Energy, Gravitation
-
-**Chemistry**:  
-Mole Concept, Structure of Atom, Periodicity, Chemical Bonding
-
-**Mathematics**:  
-Sets, Sequence and Series
-
----
-
 ## 🧠 Skills
 
 - 💻 Python (Beginner Level – Building Projects)
 - 🛠 Git & GitHub (Basics – Portfolio & Version Control)
-- 📚 PCM Subject Teaching (Offline)
 - 💪 Calisthenics, Yoga, and Self-Discipline
 - 🧘‍♂️ Meditation for Focus
 
